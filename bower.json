@@ -1,0 +1,25 @@
+{
+  "name": "js-decrypt",
+  "description": "js-decrypt",
+  "js-decrypt": [
+    "linecons"
+  ],
+  "homepage": "https://github.com/FMDCA380/js-decrypt",
+  "main":[
+  	"base64.js",
+    "md5.js",
+    "sha1.js"
+  ],
+  "license": "MIT",
+  "moduleType": "globals",
+  "ignore": [
+    "/.*",
+    "_config.yml",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "docs",
+    "js/tests",
+    "test-infra"
+  ]
+}
